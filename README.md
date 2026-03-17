@@ -11,11 +11,11 @@
 - 開発環境: VS Code
 
 ## 🚀 使い方
-TsukamotoShota1J22F100.java を実行すると画面上にカニ炒飯が表示されます。
+KaniChaMascot.java を実行すると画面上にカニ炒飯が表示されます。
 
 実行するには、  
-javac TsukamotoShota1J22F100.java  
-java TsukamotoShota1J22F100  
+javac KaniChaMascot.java  
+java KaniChaMascot  
 と入力します。  
   
 ドラッグ&ドロップで画面上の好きな位置に移動することができます。  
